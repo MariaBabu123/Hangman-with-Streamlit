@@ -13,6 +13,3 @@ Welcome to the Hangman Game using Streamlit! This project is a simple implementa
 
 - **Real-Time Updates**: The game updates in real-time as you make guesses.
 
----
-
-This format keeps each feature clearly separated for readability.
