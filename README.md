@@ -1,5 +1,4 @@
 # Hangman-with-Streamlit
-Hangman Game with Streamlit
 Welcome to the Hangman Game using Streamlit! This project is a simple implementation of the classic Hangman game, built with the Streamlit library for an interactive web-based interface.
 
 Features
